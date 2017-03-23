@@ -1,34 +1,53 @@
 header{
   text-align: center;
-  text-size: 30px;
+  Background-image: url('https://upload.wikimedia.org/wikipedia/commons/b/b2/United_States_Capitol_-_west_front.jpg');
+  background-size: cover;
+
 }
 
 p{
   color: red;
+  margin-bottom: 100px;
 }
+
 ul{
-  Background: rgba(0,0,0,0,.5)
+  padding: 10px;
+  Background: rgba(0,0,0,.5);
+  border-radius: 10px;
+
 }
+
 li{
   display: inline;
   padding: 0px 50px 0px 50px;
   font-size: 20px;
   font-family: 'kumar one';
+  Color: white;
+
 }
 
 img{
   border-radius: 40px;
   border: 10px solid black;
-}
 
+}
 h1{
   font-size: 75px;
   font-family: 'kumar one';
+  padding-top: 20px;
+  color:white
+
 }
 
 h2{
   font-size: 40px;
   font-family: 'kumar one';
+}
 
+.ACP{
+  border: 20px solid black;
+  padding-left: 25px;
+  Border-radius: 20px;
+  Margin-bottom: 20px;
 
 }
